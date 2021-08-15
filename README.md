@@ -1,2 +1,2 @@
-# IQOptionTradeBot
-IQOptionTradeBot
+# BinanceTradeBot
+BinanceTradeBot
